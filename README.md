@@ -3,7 +3,7 @@ Binus Online Learning (Biontika) / (Boltika) S1 Teknik Informatika. Catatan pers
 
 ## Apresiasi
 
-Untuk menghargai informasi yang diberikan, Anda bisa membantu saya dengan cara apresiasi di [saweria.co/kresnasatya](https://saweria.co/kresnasatya) atau [trakteer.id/kresnasatya](https://trakteer.id/kresnasatya). Terima kasih.
+Untuk menghargai informasi yang diberikan, Anda bisa membantu saya dengan cara apresiasi di [trakteer.id/kresnasatya](https://trakteer.id/kresnasatya). Terima kasih.
 
 ## Biaya Kuliah Binus Online Learning
 
