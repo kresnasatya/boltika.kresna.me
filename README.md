@@ -11,7 +11,7 @@ Silakan buka video [1. Persiapan Masuk & Biaya Kuliah di Binus Online Learning](
 
 ## Persiapan
 
-Mengikuti Tes Potensi Keberhasilan Studi. Silakan berlangganan jadwal tes di situs [jadwalbinusonline](https://jadwalbinusonline.vercel.app/).
+Mengikuti Tes Potensi Keberhasilan Studi. Silakan berlangganan jadwal tes di situs [jadwalbinusonline](https://online.binus.ac.id/jadwal-pendaftaran/).
 
 Kisi-kisi materi:
 
